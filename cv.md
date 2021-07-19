@@ -22,6 +22,6 @@ I want to discover a lot of new things while studying in the IT industry
 ```
 *Education*
 
-Graduated from Secondary school
+Graduated from Secondary school.
 
 *English level*: A2
