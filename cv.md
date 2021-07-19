@@ -25,4 +25,3 @@ I want to discover a lot of new things while studying in the IT industry
 Graduated from Secondary school
 
 *English level*: A2
-
