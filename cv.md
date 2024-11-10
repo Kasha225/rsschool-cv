@@ -1,4 +1,4 @@
-# rsschool-cv
+# [rsschool-cv](https://Kasha225.github.io/rsschool-cv/)
 # Lavrent'ev Ruslan
 ## Information
 + Location: Yekaterinburg, Russia
