@@ -58,6 +58,9 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
+.wrapper .header a {
+  text-decoration: none;
+}
 
 .wrapper .header .navbar {
   gap: 8px;
